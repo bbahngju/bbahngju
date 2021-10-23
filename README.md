@@ -1,5 +1,4 @@
-### Hi there 👋
-
+🌱 I’m currently learning ...
 <!--
 **bbahngju/bbahngju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,21 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=neule0313">
 
-## Skills
+## :sparkles:Skills
 
 #### Platforms & Languages
-<img src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>
+</div>
 
 #### Tools
-<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbahngju&show_icons=true&theme=calm)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbahngju&show_icons=true&theme=calm)  
 
 
 
 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=neule0313">
+
