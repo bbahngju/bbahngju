@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 #### Platforms & Languages
 <div>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?logo=SpringBoot&logoColor=white"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/>
